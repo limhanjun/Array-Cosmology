@@ -1,4 +1,4 @@
-# Array-Cosmology
+# Array Cosmology
 Array Cosmology - Zero Free Parameter Framework by Han-Jun Lim
 ORCID : 0009-0003-2701-4146
 
