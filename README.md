@@ -97,3 +97,6 @@ Link : https://zenodo.org/records/19285050
 
 Nucleon Properties from the Landauer Hierarchy: Proton Charge Radius, Magnetic Moments, and the Information-Theoretic Structure of Nuclear Physics
 Link : https://zenodo.org/records/19286540
+
+Neutrino Mixing Angles and QCD String Tension from the Rendering Friction: Complete PMNS Matrix and Confinement Geometry from Five Axioms
+Link : https://zenodo.org/records/19287996
