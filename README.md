@@ -92,3 +92,5 @@ Link : https://zenodo.org/records/19022738
 Topological Refraction of Phantom Threads and the Zero-Parameter Deduction of Absolute Neutrino Mass: The Geometric Annihilation of the Seesaw Mechanism
 Link : https://zenodo.org/records/19100718
 
+Non-Perturbative QCD Observables from the R12 Rendering Algebra: Zero-Parameter Derivation of fπ, gρππ, VMD Universality Breaking, and the Chiral Self-Referential Fixed Point
+Link : https://zenodo.org/records/19285050
