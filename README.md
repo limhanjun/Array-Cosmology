@@ -100,3 +100,7 @@ Link : https://zenodo.org/records/19286540
 
 Neutrino Mixing Angles and QCD String Tension from the Rendering Friction: Complete PMNS Matrix and Confinement Geometry from Five Axioms
 Link : https://zenodo.org/records/19287996
+
+The R12 Dynamical Protocol: SU(3) Flavour Breaking from Prime–Composite Hamiltonian Renormalisation
+Link : https://zenodo.org/records/19292023
+
