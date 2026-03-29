@@ -104,3 +104,15 @@ Link : https://zenodo.org/records/19287996
 The R12 Dynamical Protocol: SU(3) Flavour Breaking from Prime–Composite Hamiltonian Renormalisation
 Link : https://zenodo.org/records/19292023
 
+Heavy Quark Masses from Axis Saturation, Casimir Distribution, and Crossing Space in R12
+Link : https://zenodo.org/records/19307974
+
+Light Quark Mass Hierarchy from Colour Flux Quantisation in R12
+Link : https://zenodo.org/records/19309124
+
+Charged Lepton Masses from the Additive Cauchy Equation, Phase Equipartition, and Cauchy Duality in R12
+Link : https://zenodo.org/records/19311278
+
+Unified Quark Mass Formula from the KMS Boltzmann Cascade, Casimir Barriers, and Shannon Saturation in R12
+Link : https://zenodo.org/records/19312609
+
