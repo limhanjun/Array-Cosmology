@@ -116,3 +116,6 @@ Link : https://zenodo.org/records/19311278
 Unified Quark Mass Formula from the KMS Boltzmann Cascade, Casimir Barriers, and Shannon Saturation in R12
 Link : https://zenodo.org/records/19312609
 
+The Cosmological Energy Budget, Gauge Couplings, and CKM Matrix from R12 Structural Constants
+Link : https://zenodo.org/records/19320721
+
