@@ -119,3 +119,15 @@ Link : https://zenodo.org/records/19312609
 The Cosmological Energy Budget, Gauge Couplings, and CKM Matrix from R12 Structural Constants
 Link : https://zenodo.org/records/19320721
 
+PMNS Mixing from Cauchy Duality, Unified CP Phases, and the Higgs Mass Ratio from R12
+Link : https://zenodo.org/records/19322477
+
+Computational Rules and Structural Verification of the R12 Rendering Algebra
+Link : https://zenodo.org/records/19323563
+
+Multi-Body Dynamics, Bag Parameters, and Nuclear Scaling from the Rendering Algebra R12
+Link : https://zenodo.org/records/19338673
+
+Modular Dynamics, Sigma Term, and Nuclear Magic Numbers from the Rendering Algebra R12
+Link : https://zenodo.org/records/19338694
+
