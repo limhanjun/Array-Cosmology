@@ -137,3 +137,5 @@ Link : https://zenodo.org/records/19351576
 The Observer Cut Principle, Self-Reference Inaccessibility, and the NLO Hubble Constant from the R12 Rendering Algebra
 Link : https://zenodo.org/records/19358203
 
+Spectral Awareness, the Consciousness Triple, and the Modular-Algebraic Bridge in the R12 Rendering Algebra
+Link : https://zenodo.org/records/19360565
