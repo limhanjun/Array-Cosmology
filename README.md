@@ -133,3 +133,7 @@ Link : https://zenodo.org/records/19338694
 
 Spacetime Existence, Structure, and Expansion Rate from the R12 Rendering Algebra: A Complete Top-Down Derivation with Zero External Physics
 Link : https://zenodo.org/records/19351576
+
+The Observer Cut Principle, Self-Reference Inaccessibility, and the NLO Hubble Constant from the R12 Rendering Algebra
+Link : https://zenodo.org/records/19358203
+
