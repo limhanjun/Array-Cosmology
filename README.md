@@ -139,3 +139,13 @@ Link : https://zenodo.org/records/19358203
 
 Spectral Awareness, the Consciousness Triple, and the Modular-Algebraic Bridge in the R12 Rendering Algebra
 Link : https://zenodo.org/records/19360565
+
+Hubble Tension, S8 Tension, and DESI Dark Energy as Self-Referential Observation Costs in the R12 Rendering Algebra
+Link : https://zenodo.org/records/19390537
+
+ζ(Nc) Color Cohesion, CKM Casimir Cascade, and the Complete M3(C) Sector of the R12 Rendering Algebra
+Link : https://zenodo.org/records/19397060
+
+The 12-gon Area Identity, Defect Reciprocity, and the A Priori Derivation of the Fine-Structure Constant from the R12 Rendering Algebra
+Link : https://zenodo.org/records/19397879
+
