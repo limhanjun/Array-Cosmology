@@ -151,3 +151,10 @@ Link : https://zenodo.org/records/19397879
 
 R12 Lattice Verification, Landauer Recombination, and the Zero-Parameter CMB Temperature
 Link : https://zenodo.org/records/19417397
+
+Black Holes in the R12 Rendering Algebra: QNM l-Spectrum from SO(3) ⊂ SU(3), Colour–Holography, and Spacetime Emergence
+Link : https://zenodo.org/records/19421788
+
+The Rendering Algebra and the Riemann Zeta Function: γ1 from B2=I, Axiom Reduction, Binary Allocation, and the Cauchy–Euler–Dirichlet Correspondence
+Link : https://zenodo.org/records/19422698
+
