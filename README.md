@@ -149,3 +149,5 @@ Link : https://zenodo.org/records/19397060
 The 12-gon Area Identity, Defect Reciprocity, and the A Priori Derivation of the Fine-Structure Constant from the R12 Rendering Algebra
 Link : https://zenodo.org/records/19397879
 
+R12 Lattice Verification, Landauer Recombination, and the Zero-Parameter CMB Temperature
+Link : https://zenodo.org/records/19417397
