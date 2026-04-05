@@ -158,3 +158,6 @@ Link : https://zenodo.org/records/19421788
 The Rendering Algebra and the Riemann Zeta Function: γ1 from B2=I, Axiom Reduction, Binary Allocation, and the Cauchy–Euler–Dirichlet Correspondence
 Link : https://zenodo.org/records/19422698
 
+Single-Field Inflation from the Rendering Algebra: Complete Derivation via Icosahedral Geometry
+Link : https://zenodo.org/records/19427604
+
