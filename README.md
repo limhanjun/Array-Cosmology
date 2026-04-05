@@ -161,3 +161,5 @@ Link : https://zenodo.org/records/19422698
 Single-Field Inflation from the Rendering Algebra: Complete Derivation via Icosahedral Geometry
 Link : https://zenodo.org/records/19427604
 
+The Hard Problem of Consciousness in the R12 Rendering Algebra
+Link : https://zenodo.org/records/19431107
