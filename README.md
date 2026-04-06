@@ -163,3 +163,6 @@ Link : https://zenodo.org/records/19427604
 
 The Hard Problem of Consciousness in the R12 Rendering Algebra
 Link : https://zenodo.org/records/19431107
+
+Array Cosmology: Complete Derivation of Physical Constants from Four Axioms Master Review
+Link : https://zenodo.org/records/19437387
