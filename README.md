@@ -166,3 +166,6 @@ Link : https://zenodo.org/records/19431107
 
 Array Cosmology: Complete Derivation of Physical Constants from Four Axioms Master Review
 Link : https://zenodo.org/records/19437387
+
+Star Formation, Jets, and Black Holes from the Unconfined M3 Sector of R12
+Link : https://zenodo.org/records/19498083
