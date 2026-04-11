@@ -173,3 +173,5 @@ Link : https://zenodo.org/records/19498083
 Galaxy Formation from the Confined M4 Sector: Schechter Decomposition, Riemann Zero Spacings, and a Cross-Identity for sin2 θ13
 Link : https://zenodo.org/records/19509997
 
+Yang–Mills Mass Gap from the Rendering Algebra R12
+Link : https://zenodo.org/records/19511196
