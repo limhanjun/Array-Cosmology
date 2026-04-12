@@ -178,3 +178,7 @@ Link : https://zenodo.org/records/19511196
 
 Proof of the Riemann Hypothesis from Array Cosmology
 Link : https://zenodo.org/records/19540844
+
+Qualia–Confinement Correspondence Congruence Subgroups, the Weyl Group, and the Mih˘ailescu Bridge between Colour and Consciousness
+Link : https://zenodo.org/records/19545588
+
