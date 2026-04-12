@@ -175,3 +175,6 @@ Link : https://zenodo.org/records/19509997
 
 Yang–Mills Mass Gap from the Rendering Algebra R12
 Link : https://zenodo.org/records/19511196
+
+Proof of the Riemann Hypothesis from Array Cosmology
+Link : https://zenodo.org/records/19540844
