@@ -182,3 +182,6 @@ Link : https://zenodo.org/records/19540844
 Qualia–Confinement Correspondence Congruence Subgroups, the Weyl Group, and the Mih˘ailescu Bridge between Colour and Consciousness
 Link : https://zenodo.org/records/19545588
 
+QuantumMechanics as Chladni Pattern: The Rendering Interpretation of Wave–Particle Duality, QuantumGravity from Lindblad Dynamics, and the Ontological Status of the Universe
+Link : https://zenodo.org/records/19594974
+
