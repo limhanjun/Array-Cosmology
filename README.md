@@ -185,3 +185,8 @@ Link : https://zenodo.org/records/19545588
 QuantumMechanics as Chladni Pattern: The Rendering Interpretation of Wave–Particle Duality, QuantumGravity from Lindblad Dynamics, and the Ontological Status of the Universe
 Link : https://zenodo.org/records/19594974
 
+Monstrous Moonshine from Four Axioms: AnArray Cosmology Derivation
+Link : https://zenodo.org/records/19633600
+
+Resolution of Open Problems from Monstrous Moonshine in Array Cosmology
+Link : https://zenodo.org/records/19633650
