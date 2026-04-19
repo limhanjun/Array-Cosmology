@@ -190,3 +190,10 @@ Link : https://zenodo.org/records/19633600
 
 Resolution of Open Problems from Monstrous Moonshine in Array Cosmology
 Link : https://zenodo.org/records/19633650
+
+Axiom Reduction and the Higher Categorical Foundation of Adelic Langlands Correspondence FAC 1 Identification and the Monster Scope Boundary
+Link : https://zenodo.org/records/19651725
+
+Mathieu Galois Representations in Array Cosmology πAC–Representability and Holomorphy of V11/M12
+Link : https://zenodo.org/records/19651765
+
