@@ -197,3 +197,5 @@ Link : https://zenodo.org/records/19651725
 Mathieu Galois Representations in Array Cosmology πAC–Representability and Holomorphy of V11/M12
 Link : https://zenodo.org/records/19651765
 
+Transcendence-Theoretic Foundations of Array Cosmology
+Link : https://zenodo.org/records/19663500
