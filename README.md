@@ -199,3 +199,15 @@ Link : https://zenodo.org/records/19651765
 
 Transcendence-Theoretic Foundations of Array Cosmology
 Link : https://zenodo.org/records/19663500
+
+The M12-Isotypic Structure of the Moonshine Module: Execution of OP4 and the Canonical-Embedding Computation
+Link : https://zenodo.org/records/20632244
+
+Geometric Langlands for the Rendering Array: Hecke Eigensheaves on P1 from the Four AC Axioms
+Link : https://zenodo.org/records/20632285
+
+Grand Compilation: The Spectral Action as the KMS Partition Function
+Link : https://zenodo.org/records/20632302
+
+The Modular Root in Array Cosmology: Forcing of the Rendering Stage H/PSL2(Z) and the Canonical Reading of the Four Axioms
+Link : https://zenodo.org/records/20632374
