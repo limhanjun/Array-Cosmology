@@ -211,3 +211,9 @@ Link : https://zenodo.org/records/20632302
 
 The Modular Root in Array Cosmology: Forcing of the Rendering Stage H/PSL2(Z) and the Canonical Reading of the Four Axioms
 Link : https://zenodo.org/records/20632374
+
+The Anatomy of the Imaginary Part: The Fourfold Measurement of −1, the Golden Commutator, and the Engraving of Depth in the R12 Rendering Algebra
+Link : https://zenodo.org/records/20648502
+
+Native Objects of the Stage: Codes, Knots, the Conway Layer, SIC Geometry, and the Spectrum of X0
+Link : https://zenodo.org/records/20648532
