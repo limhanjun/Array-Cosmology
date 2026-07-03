@@ -220,3 +220,12 @@ Link : https://zenodo.org/records/20648532
 
 Mutually Unbiased Bases in Dimension Twelve: Tensor Saturation, Strong Unextendibility, and the Flat-Sum Trichotomy
 Link : https://zenodo.org/records/20675929
+
+The Fifth Context of C12: Simplex Fibers, the Coexistence Sextic, and the Starvation Geometry of the Continent
+Link : https://zenodo.org/records/21177853
+
+The Modular–Algebraic Bridge Height-12 Forcing, Level–Rank Completion, and the Branching Theorem for the Rendering Character
+Link : https://zenodo.org/records/21178037
+
+Nonperturbative Dynamical Confirmation — Certified Campaigns from SU(3) Gauge Fields to the Stage Spectrum and the Birefringence Process
+Link : https://zenodo.org/records/21178123
