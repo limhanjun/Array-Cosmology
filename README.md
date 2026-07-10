@@ -128,6 +128,9 @@ Link : https://zenodo.org/records/19323563
 Multi-Body Dynamics, Bag Parameters, and Nuclear Scaling from the Rendering Algebra R12
 Link : https://zenodo.org/records/19338673
 
+From the Pion–Nucleon Sigma Term to Nuclear Magic Numbers: Chiral Constants, Nuclear Saturation, and Shell Structure from the Rendering Algebra R12
+Link : https://zenodo.org/records/21301075
+
 Modular Dynamics, Sigma Term, and Nuclear Magic Numbers from the Rendering Algebra R12
 Link : https://zenodo.org/records/19338694
 
