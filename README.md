@@ -232,3 +232,6 @@ Link : https://zenodo.org/records/21178037
 
 Nonperturbative Dynamical Confirmation — Certified Campaigns from SU(3) Gauge Fields to the Stage Spectrum and the Birefringence Process
 Link : https://zenodo.org/records/21178123
+
+Dynamics Reduction I: The Glued Spectral Action and the Standard-Model Effective Theory from R12
+Link : https://zenodo.org/records/21313455
