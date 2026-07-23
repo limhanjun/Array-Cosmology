@@ -235,3 +235,6 @@ Link : https://zenodo.org/records/21178123
 
 Dynamics Reduction I: The Glued Spectral Action and the Standard-Model Effective Theory from R12
 Link : https://zenodo.org/records/21313455
+
+The Yang–Mills Mass Gap as Block-Charge Independence From strong-coupling theorems to a single measured inequality
+Link : https://zenodo.org/records/21515992
